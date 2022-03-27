@@ -1,6 +1,6 @@
 # cookie 格式: pt_key=******;pt_pin=****** 多个 cookie 请换行添加
 cookies:
-  - pt_key=AAJiQANaADA_Iu-gmgIuK6fNDNQzPINgnBNjieWNE8tNLtwJiqEKm1BLC0J9SOq8RP3SVL4HEKI;pt_pin=jd_5939a443745ee
+  - pt_key=123;pt_pin=jd_5123
 
 # 线程数量: 注意！不要超过 8 线程，否则可能会被京东临时禁止访问
 thread: 4
